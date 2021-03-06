@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+}
+
+.general-container {
+  background-color: #EEF0F1;
+  padding: 0px 10px;
+}
+/*# sourceMappingURL=styles.css.map */

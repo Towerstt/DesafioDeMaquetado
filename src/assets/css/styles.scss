@@ -1,0 +1,44 @@
+//Colores
+    $blue: #323EBE; //Logo
+    $light-blue: #3B4FE2; //Letra
+    $blue-under: #3B49DF; //Subrayado header, nombre autor y hovers
+    $grey: #EEF0F1; //Fondo
+    $dark-grey: #B5BDC4; //Botón Save
+    $light-purple: #6B3EBE; //Sombra Letra
+
+    //Íconos
+    $blue-bookmark: #3B49DF; //Delineado Bookmark
+    $blue-bookmarkF: #DCDFEF; // Fondo Bookmark
+    $unicorn-blue: #26D9CA; //Delineado Unicornio
+    $unicorn-blueF: #DAEEED; //Fondo Unicornio
+    $heart-red: #DC1818; //Delineado Corazón
+    $heart-redF: #ECDADA; //Fondo corazón con hover
+    
+    //Hashtags
+    $yellow_h: #F7DF1E; //#javascript
+    $blue_h: #2965F1; //#CSS
+    $orange_h: #F53900; //#html
+
+
+//Íconos
+    //🎁 🎖️ 🚀 ⚙️ 😅 🤓 🎉 🦄 📈 👽 📖 🔀 😎 🔗 🤐 😂 🤔 🤣 👍 🤦‍♂️
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+}
+.general-container{
+    background-color: $grey;
+    padding: 0px 10px; //REVISAR!!!!
+}
+//Utilities
+
+
+
+
+
+

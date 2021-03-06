@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAyBA,AAAA,CAAC,CAAA;EACD,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;CACrB;;AACD,AAAA,IAAI,CAAA;EACJ,KAAK,EAAE,IAAI;CACV",
+    "sources": [
+        "stylepost.scss"
+    ],
+    "names": [],
+    "file": "stylepost.css"
+}
