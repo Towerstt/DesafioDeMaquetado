@@ -499,6 +499,11 @@ footer .foot-1 div {
   color: gray;
 }
 
+footer .foot-1 div:hover {
+  cursor: pointer;
+  color: blue;
+}
+
 footer .footer-2 {
   margin-top: 5vh;
   margin-left: auto;
@@ -521,6 +526,11 @@ footer .footer-2 span {
   font-size: 0.8rem;
   text-align: center;
   color: gray;
+}
+
+footer .footer-2 span:hover {
+  cursor: pointer;
+  color: blue;
 }
 
 @media only screen and (min-width: 770px) {
